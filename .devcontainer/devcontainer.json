@@ -1,6 +1,6 @@
 {
   "name": "Google Docs Batch Markdown Exporter Dev Container",
-  "image": "mcr.microsoft.com/devcontainers/dotnet:8.0",
+  "image": "mcr.microsoft.com/devcontainers/dotnet:11.0",
   "features": {
     "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {
       "version": "latest",
